@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232373156927",
+    "project_id": "easetour-1d6d9",
+    "storage_bucket": "easetour-1d6d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232373156927:android:87ec5d8e8f7a2ba85b0c8a",
+        "android_client_info": {
+          "package_name": "com.example.easetour_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232373156927-jvu319d8c2v7at4r36u7vf51t3nj5vlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl_Yb4kB7PO2tqxc0Md7G0elrQyOfD4kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232373156927-jvu319d8c2v7at4r36u7vf51t3nj5vlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
